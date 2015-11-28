@@ -1,0 +1,6 @@
+/src/.vs/QaStories/v14/*.suo
+/src/.vs/config
+/src/QaStories.Web/*.user
+bin
+obj
+/src/packages/
